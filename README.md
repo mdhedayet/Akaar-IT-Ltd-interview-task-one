@@ -17,7 +17,7 @@ Email configuration is already added in .env file.
 
 ## Getting Started
 
-It's super easy to get Hydra up and running.
+It's super easy to get TaskOne up and running.
 
 1. clone the project
 
