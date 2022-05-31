@@ -13,11 +13,10 @@ Please find the customers.csv in public folder and complete these following task
 Email configuration is already added in .env file.
 
 
-## TASK One Done
 
-## Getting Started
+## Task One Done & Getting Started
 
-It's super easy to get TaskOne up and running.
+It's super easy to get Akaar-IT-Ltd-interview-task-one up and running.
 
 1. clone the project
 
@@ -54,7 +53,13 @@ php artisan migrate
 7. Run Queue
 
 ```shell
-php artisan queue:work --daemon
+php artisan queue:work
 ```
 
 8. find the customers.csv in public folder and upload it. if queue is done than test the softwate. 
+
+9. If Queue is closed then Run Queue again
+
+```shell
+php artisan queue:work
+```
